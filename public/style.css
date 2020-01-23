@@ -1,0 +1,56 @@
+.loginBlock{
+    margin-left: 60%;
+    margin-top: 10%;
+    background-color: rgba(255, 255, 255, 0.555);
+    width: 25%;
+    height: 500px;
+    border-radius: 50px;
+    padding: 70px 20px 100px 20px;
+    text-align: center;
+    position: relative;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.466);
+    margin-top: 30px;  
+    width: 80%;
+    text-align: center;  
+    height: 60px;
+    background-color: transparent;
+    outline: none;
+}
+
+button{
+    width: 40%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(90, 194, 49);
+    height: 50px;
+    color: white;
+    cursor: pointer;
+    outline:none !important;
+    transition: all .4s ease;
+}
+
+button:hover{
+    background-color: rgb(211, 134, 61);
+}
+
+.heading{
+    margin-left: 10%;
+    width: auto;
+    color: white;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10% 20px 100px 20px;
+    text-align: center;
+    position: absolute;
+
+}
+
+.heading h1{
+    font-size: 60px;
+}
+
